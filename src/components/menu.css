@@ -1,0 +1,29 @@
+article > div {
+    text-align: center;
+    padding-top: 1em;
+}
+
+button {
+    font-size: 1.3em;
+    color: var(--primary-background);
+    background: var(--primary-color);
+    border: 1px solid var(--primary-background);
+    padding: 4px 24px;
+    font-weight: 600;
+}
+
+article > h2 {
+    text-align: center;
+    color: whitesmoke;
+    padding: 2em 0;
+}
+
+.coffee-container {
+    display: flex;
+    flex-wrap: wrap;
+    animation: rotation 2s infinite linear;
+
+}
+
+
+
